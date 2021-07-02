@@ -1,0 +1,23 @@
+<!-- 
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJRh4T9NCv9B89c6mH_8vRkmeLfi98W-5E9A&usqp=CAU);
+    background-repeat: repeat;
+}
+
+#thirdDiv {  
+    display: flex;
+    justify-content: center;
+    height: 600px; 
+    width: 500px;
+    background-color: yellow;
+    padding: 50px;
+    border: 2px solid pink;
+    text-align: center;
+    }
+
+#spanId {
+ font-size: 18px;
+ margin: 50px;
+}
+-->
